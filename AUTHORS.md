@@ -136,3 +136,4 @@ PsychoPy:
 *This list was auto-generated via `gen_authors.py`. Do not edit manually.*
 
 *Last updated on December 15, 2018 (UTC).*
+
